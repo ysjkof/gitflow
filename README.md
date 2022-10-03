@@ -30,3 +30,4 @@ hotfix1
 
 squash1
 squash2
+squash3
