@@ -21,3 +21,7 @@ feat local 1, 2
 ---
 
 release 1.0
+
+---
+
+hotfix1
