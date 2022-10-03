@@ -16,4 +16,4 @@ feat5-2 브랜치 삭제
 
 ---
 
-feat local 1
+feat local 1, 2
