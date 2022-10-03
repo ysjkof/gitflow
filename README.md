@@ -25,3 +25,7 @@ release 1.0
 ---
 
 hotfix1
+
+---
+
+squash1
